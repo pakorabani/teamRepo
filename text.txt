@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-team:ni4ola, Stefata, Ulkata 
-=======
+ 
 team:ni4ola (i toi na tolko), Stefata 17 godini, Ulkata(11 godini)
 
 
